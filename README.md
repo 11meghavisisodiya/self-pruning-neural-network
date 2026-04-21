@@ -31,3 +31,5 @@ Lambda      Test Accuracy           Sparsity (%)
 0.01            53.03%                  0.08%
 0.1             52.89%                  0.08%
 
+
+
